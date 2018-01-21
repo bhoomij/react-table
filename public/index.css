@@ -1,0 +1,25 @@
+
+.header {
+    margin-top: 20px;
+    text-align: center;
+}
+
+table {
+    margin: 15px 0;
+}
+
+button {
+    margin: 0 5px;
+}
+
+.griddle-page-select {
+    margin-bottom: 20px   
+}
+
+.griddle-next-button, .griddle-previous-button {
+    background: darkgrey;
+}
+
+.griddle-next-button:hover, .griddle-previous-button:hover {
+    outline: none;
+}
